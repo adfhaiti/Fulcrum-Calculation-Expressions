@@ -1,2 +1,2 @@
 # Fulcrum-Calculation-Expressions
- A repository for snippets of calculation field expressions from various apps we have created
+ A repository for snippets of calculation field expressions from various apps we have created. Learn more about the platform [here](https://www.fulcrumapp.com/platform/overview)
